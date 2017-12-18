@@ -1,4 +1,4 @@
-nd: "BuildConfig"
+kind: "BuildConfig"
 apiVersion: "v1"
 metadata:
   name: "workshop-pipeline"
